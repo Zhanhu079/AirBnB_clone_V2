@@ -1,1 +1,1 @@
-my deploy static project 
+Airbnb clone 
